@@ -1,0 +1,7 @@
+{
+  "name": "azure-function-ip-checker",
+  "version": "1.0.0",
+  "description": "An Azure Function to return user IP",
+  "main": "index.js",
+  "dependencies": {}
+}
